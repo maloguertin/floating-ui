@@ -1,6 +1,7 @@
 import 'tailwindcss/tailwind.css';
 import '@reach/skip-nav/styles.css';
 import '../assets/global.css';
+import '@docsearch/css';
 
 import {useAnalytics} from '../lib/hooks/useAnalytics';
 import Layout from '../lib/components/Layout';
